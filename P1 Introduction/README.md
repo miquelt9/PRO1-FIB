@@ -1,2 +1,19 @@
 # P1 - Introduction
-- [X54725](https://jutge.org/problems/X54725_ca) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/X54725.cc) - Mínim de dos enters
+- [X54725](https://jutge.org/problems/X54725) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/X54725.cc) - Mínim de dos enters
+- [P90615](https://jutge.org/problems/P90615) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P90615.cc) - Màxim de tres enters
+- [P92613](https://jutge.org/problems/P92613) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P92613.cc) - Arrodoniments
+- [P15613](https://jutge.org/problems/P15613) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P15613.cc) - Temperatures
+- [P98960](https://jutge.org/problems/P98960) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P98960.cc) -  Majúscules i minúscules
+- [P42042](https://jutge.org/problems/P42042) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P42042.cc) -  Classificació de caràcters (1)
+- [P90226](https://jutge.org/problems/P90226) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P90226.cc)  Comparació de paraules
+- [P51126](https://jutge.org/problems/P51126) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P51126.cc) -  Intervals (1)
+- [P56559](https://jutge.org/problems/P56559) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P56559.cc) -  Intervals (2)
+- [P89265](https://jutge.org/problems/P89265) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P89265.cc) -  Intervals (3)
+- [P48107](https://jutge.org/problems/P48107) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P48107.cc) -  Divisió entera i residu de dos naturals
+- [P70955](https://jutge.org/problems/P70955) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P70955.cc) -  Quants segons són?
+- [P34279](https://jutge.org/problems/P34279) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P34279.cc) -  Suma d'un segon
+- [P37469](https://jutge.org/problems/P37469) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P37469.cc) -  Descomposició horària (1)
+- [P61634](https://jutge.org/problems/P61634) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P61634.cc) -  Anys de traspàs
+- [P51352](https://jutge.org/problems/P51352) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P51352.cc) -  Elementos
+- [P82374](https://jutge.org/problems/P82374) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P82374.cc) -  Control C102A
+- [P37297](https://jutge.org/problems/P37297) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P37297.cc) -  Control C101A
