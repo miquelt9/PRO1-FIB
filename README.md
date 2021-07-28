@@ -1,8 +1,8 @@
 # Problemes PRO1
-----------------------------------
+
 Aquí trobareu els problemes de programació 1 de la FIB (UPC) corresponents al quatrimestre de tardor 2020/2021.                            
 El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](https://jutge.org/courses/Pro1:PRO1_Q1_2020_2021)
------------------------------------
+
 ## P1 - Introduction
 - [X54725](https://jutge.org/problems/X54725) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/X54725.cc) - Mínim de dos enters
 - [P90615](https://jutge.org/problems/P90615) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P90615.cc) - Màxim de tres enters
