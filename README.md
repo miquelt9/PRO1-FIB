@@ -33,10 +33,10 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P59539](https://jutge.org/problems/P59539) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P59539.cc) -  Nombres harmònics (1)
 - [P55622](https://jutge.org/problems/P55622) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P55622.cc) -  Nombre de dígits (1)
 - [P74398](https://jutge.org/problems/P74398) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P74398.cc) -  Número de cifras
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [P50327](https://jutge.org/problems/P50327) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P50327.cc) -  Número del revés
+- [P28754](https://jutge.org/problems/P28754) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P28754.cc) -  Número del revés en binari
+- [P60816](https://jutge.org/problems/P60816) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P60816.cc) -  Número del revés en hexadecimal
+- [P39057](https://jutge.org/problems/P39057) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P39057.cc) -  
 - [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
 - [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
 - [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
