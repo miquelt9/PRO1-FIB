@@ -1,6 +1,6 @@
 # Problemes PRO1
 
-Aquí trobareu els problemes de programació 1 de la FIB (UPC) corresponents al quatrimestre de tardor 2020/2021.                            
+Aquí trobareu els problemes de [PRO1](https://www.cs.upc.edu/pro1/) de la [FIB](https://www.fib.upc.edu/) ([UPC](https://www.upc.edu/)) corresponents al quatrimestre de tardor 2020/2021.                            
 El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](https://jutge.org/courses/Pro1:PRO1_Q1_2020_2021)
 
 ## P1 - Introduction
