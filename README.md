@@ -24,26 +24,27 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P37297](https://jutge.org/problems/P37297) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P37297.cc) -  Control C101A
 
 ## P2 - First Loops
-- [P37500](https://jutge.org/problems/P37500) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P37500.cc) -  Primers nombres
-- [P31170](https://jutge.org/problems/P31170) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P31170.cc) -  Taula de multiplicar
-- [P64976](https://jutge.org/problems/P64976) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P64976.cc) -  Control C201B
-- [P59875](https://jutge.org/problems/P59875) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P59875.cc) -  Cap avall
-- [P97156](https://jutge.org/problems/P97156) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P97156.cc) -  Nombres en un interval
-- [P36668](https://jutge.org/problems/P36668) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P36668.cc) -  Suma de quadrats
-- [P59539](https://jutge.org/problems/P59539) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P59539.cc) -  Nombres harmònics (1)
-- [P55622](https://jutge.org/problems/P55622) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P55622.cc) -  Nombre de dígits (1)
-- [P74398](https://jutge.org/problems/P74398) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P74398.cc) -  Número de cifras
-- [P50327](https://jutge.org/problems/P50327) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P50327.cc) -  Número del revés
-- [P28754](https://jutge.org/problems/P28754) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P28754.cc) -  Número del revés en binari
-- [P60816](https://jutge.org/problems/P60816) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P60816.cc) -  Número del revés en hexadecimal
-- [P39057](https://jutge.org/problems/P39057) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P39057.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [P37500](https://jutge.org/problems/P37500) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P37500.cc) -  Primers nombres
+- [P31170](https://jutge.org/problems/P31170) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P31170.cc) -  Taula de multiplicar
+- [P64976](https://jutge.org/problems/P64976) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P64976.cc) -  Control C201B
+- [P59875](https://jutge.org/problems/P59875) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P59875.cc) -  Cap avall
+- [P97156](https://jutge.org/problems/P97156) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P97156.cc) -  Nombres en un interval
+- [P36668](https://jutge.org/problems/P36668) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P36668.cc) -  Suma de quadrats
+- [P59539](https://jutge.org/problems/P59539) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P59539.cc) -  Nombres harmònics (1)
+- [P55622](https://jutge.org/problems/P55622) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P55622.cc) -  Nombre de dígits (1)
+- [P74398](https://jutge.org/problems/P74398) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P74398.cc) -  Número de cifras
+- [P50327](https://jutge.org/problems/P50327) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P50327.cc) -  Número del revés
+- [P28754](https://jutge.org/problems/P28754) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P28754.cc) -  Número del revés en binari
+- [P60816](https://jutge.org/problems/P60816) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P60816.cc) -  Número del revés en hexadecimal
+- [P39057](https://jutge.org/problems/P39057) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P39057.cc) -  Càlcul d'àrees
+- [X32391](https://jutge.org/problems/X32391) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/X32391.cc) -  Assignació (2)
+- [P97969](https://jutge.org/problems/P97969) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P97969.cc) -  Comptant as (1)
+- [P78142](https://jutge.org/problems/P78142) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P78142.cc) -  Mitjana
+- [P65171](https://jutge.org/problems/P65171) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P65171.cc) -  Control C202B
+- [P38614](https://jutge.org/problems/P38614) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P38614.cc) -  Control C201A
+- [P34451](https://jutge.org/problems/P34451) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P34451.cc) -  Control C201C
+- [P27341](https://jutge.org/problems/P27341) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P27341.cc) -  Control C202D
+- [P85370](https://jutge.org/problems/P85370) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P85370.cc) - Interessos (1)
 
 
 ## P3 - More Loops
