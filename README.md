@@ -10,7 +10,7 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P15613](https://jutge.org/problems/P15613) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P15613.cc) - Temperatures
 - [P98960](https://jutge.org/problems/P98960) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P98960.cc) -  Majúscules i minúscules
 - [P42042](https://jutge.org/problems/P42042) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P42042.cc) -  Classificació de caràcters (1)
-- [P90226](https://jutge.org/problems/P90226) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P90226.cc)  Comparació de paraules
+- [P90226](https://jutge.org/problems/P90226) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P90226.cc) - Comparació de paraules
 - [P51126](https://jutge.org/problems/P51126) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P51126.cc) -  Intervals (1)
 - [P56559](https://jutge.org/problems/P56559) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P56559.cc) -  Intervals (2)
 - [P89265](https://jutge.org/problems/P89265) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P89265.cc) -  Intervals (3)
@@ -24,6 +24,27 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P37297](https://jutge.org/problems/P37297) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P37297.cc) -  Control C101A
 
 ## P2 - First Loops
+- [P37500](https://jutge.org/problems/P37500) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P37500.cc) -  Primers nombres
+- [P31170](https://jutge.org/problems/P31170) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P31170.cc) -  Taula de multiplicar
+- [P64976](https://jutge.org/problems/P64976) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P64976.cc) -  Control C201B
+- [P59875](https://jutge.org/problems/P59875) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P59875.cc) -  Cap avall
+- [P97156](https://jutge.org/problems/P97156) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P97156.cc) -  Nombres en un interval
+- [P36668](https://jutge.org/problems/P36668) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P36668.cc) -  Suma de quadrats
+- [P59539](https://jutge.org/problems/P59539) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P59539.cc) -  Nombres harmònics (1)
+- [P55622](https://jutge.org/problems/P55622) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P55622.cc) -  Nombre de dígits (1)
+- [P74398](https://jutge.org/problems/P74398) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P74398.cc) -  Número de cifras
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/.cc) -  
+
 
 ## P3 - More Loops
 
