@@ -22,3 +22,27 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P51352](https://jutge.org/problems/P51352) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P51352.cc) -  Elementos
 - [P82374](https://jutge.org/problems/P82374) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P82374.cc) -  Control C102A
 - [P37297](https://jutge.org/problems/P37297) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P37297.cc) -  Control C101A
+
+## P2 - First Loops
+
+## P3 - More Loops
+
+## P4.1 - Sequence basics
+
+## Consolidation 1
+
+## P4.2 - Sequence extension
+
+## P5 - Functions & Procedures
+
+## P6 - Recursion
+
+## P7 - Vectors
+
+## Consolidation 2
+
+## P8 - Multidimensional Arrays
+
+## P9 - Data Structures (tuples)
+
+## P10 - Fundamental Algorithms & Advanced Exercises
