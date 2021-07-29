@@ -157,61 +157,61 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P20006](https://jutge.org/problems/P20006) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P20006.cc) - Expressió prefixada
 
 ## P7 - Vectors
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [P14130](https://jutge.org/problems/P14130) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P14130.cc) - Igual a l'últim
+- [P67268](https://jutge.org/problems/P67268) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P67268.cc) - Inversió de seqüències
+- [P99133](https://jutge.org/problems/P99133) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P99133.cc) - Invertint paraules (2)
+- [P50036](https://jutge.org/problems/P50036) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P50036.cc) - Regla de Horner
+- [P63414](https://jutge.org/problems/P63414) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P63414.cc) - Comptant freqüències
+- [P71310](https://jutge.org/problems/P71310) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P71310.cc) - Producte escalar
+- [P50497](https://jutge.org/problems/P50497) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P50497.cc) - És un palíndrom?
+- [P87920](https://jutge.org/problems/P87920) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P87920.cc) - Com la suma dels demés (II)
+- [P85480](https://jutge.org/problems/P85480) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P85480.cc) - Parells d'una seqüència (1)
+- [X20419](https://jutge.org/problems/X20419) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/X20419.cc) - Longitud mitjana i lletra mes frequent
+- [P89407](https://jutge.org/problems/P89407) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P89407.cc) - F004B. Productes estables
+- [X41120](https://jutge.org/problems/X41120) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/X41120.cc) - Vector muntanyos
+- [X09467](https://jutge.org/problems/X09467) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/X09467.cc) - Rampes
+- [P29428](https://jutge.org/problems/P29428) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P29428.cc) - F002A. Infixos
+- [P24301](https://jutge.org/problems/P24301) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P24301.cc) - Concatenació de vectors
+- [P12675](https://jutge.org/problems/P12675) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/P12675.cc) - Elements comuns
 
 ## Consolidation 2
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [P23793](https://jutge.org/problems/P23793) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P23793.cc) - Control C302D
+- [P27152](https://jutge.org/problems/P27152) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P27152.cc) - The value of the letters
+- [P11916](https://jutge.org/problems/P11916) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P11916.cc) - Aproximant e
+- [P14410](https://jutge.org/problems/P14410) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P14410.cc) -  P0017. Siracusa ataca de nou
+- [P15714](https://jutge.org/problems/P15714) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P15714.cc) - P0013. Paraules entre guions
+- [P28118](https://jutge.org/problems/P28118) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P28118.cc) - P0002. Representant comercial
+- [P40129](https://jutge.org/problems/P40129) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P40129.cc) - Codis ISBN
+- [P51153](https://jutge.org/problems/P51153) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P51153.cc) - Parells d'una seqüència (2)
+- [P42523](https://jutge.org/problems/P42523) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P42523.cc) - Màxim comú divisor recursiu
+- [P42672](https://jutge.org/problems/P42672) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P42672.cc) - Barrejant en base 2
+- [P45102](https://jutge.org/problems/P45102) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P45102.cc) - Expressió completament parentitzada
+- [P61930](https://jutge.org/problems/P61930) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P61930.cc) - Múltiples de tres
+- [P25261](https://jutge.org/problems/P25261) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P25261.cc) - Sort
+- [P25992](https://jutge.org/problems/P25992) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P25992.cc) - Ordenació separada
+- [P26068](https://jutge.org/problems/P26068) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P26068.cc) - Pòquer
+- [P29428](https://jutge.org/problems/P29428) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P29428.cc) - F002A. Infixos
+- [P35941](https://jutge.org/problems/P35941) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P35941.cc) - L'escarabat d'or
+- [P77227](https://jutge.org/problems/P77227) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P77227.cc) - Salta, salta
+- [P77715](https://jutge.org/problems/P77715) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P77715.cc) - Pangrames
+- [P96766](https://jutge.org/problems/P96766) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P96766.cc) -  F011B. Palíndroms més llargs
+- [P98770](https://jutge.org/problems/P98770) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/P98770.cc) - F011A. Vectors simpàtics
 
 ## P8 - Multidimensional Arrays
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [P28318](https://jutge.org/problems/P28318) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P28318.cc) - Files i columnes
+- [P27498](https://jutge.org/problems/P27498) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P27498.cc) - Matriu transposta
+- [P37390](https://jutge.org/problems/P37390) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P37390.cc) - Productes de matrius quadrades
+- [P88905](https://jutge.org/problems/P88905) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P88905.cc) - Productes de matrius qualssevol
+- [P18660](https://jutge.org/problems/P18660) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P18660.cc) - Sopa de lletres
+- [P87801](https://jutge.org/problems/P87801) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P87801.cc) - Sopa de lletres amb punts
+- [P45829](https://jutge.org/problems/P45829) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P45829.cc) - Camps
+- [P92844](https://jutge.org/problems/P92844) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P92844.cc) - Rectangle contenidor
+- [X17276](https://jutge.org/problems/X17276) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/X17276.cc) - Diagonals creixents
+- [P42596](https://jutge.org/problems/P42596) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P42596.cc) - Control C401B
+- [X12847](https://jutge.org/problems/X12847) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/X12847.cc) - Barquets (1)
+- [P67340](https://jutge.org/problems/P67340) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P67340.cc) - F010B. Els alfils amenaçadors
+- [P16893](https://jutge.org/problems/P16893) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P16893.cc) - És la solució d'un Sudoku?
+- [P43260](https://jutge.org/problems/P43260) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P43260.cc) - Cruz recursiva
 
 ## P9 - Data Structures (tuples)
 - [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
