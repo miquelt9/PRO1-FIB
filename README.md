@@ -4,7 +4,19 @@ Aquí trobareu els problemes de [PRO1](https://www.cs.upc.edu/pro1/) de la [FIB]
 El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](https://jutge.org/courses/Pro1:PRO1_Q1_2020_2021)
 
 ## Índex
--> [P1 - Introduction](https://github.com/miquelt9/Problemes-PRO1#p1---introduction)
+- [P1 - Introduction](https://github.com/miquelt9/Problemes-PRO1#p1---introduction)
+- [P2 - First Loops](https://github.com/miquelt9/Problemes-PRO1#p2---first-loops)
+- [P3 - More Loops](https://github.com/miquelt9/Problemes-PRO1#p3---more-loops)
+- [P4.1 - Sequence basics](https://github.com/miquelt9/Problemes-PRO1#p41---sequence-basics)
+- [Consolidation 1](https://github.com/miquelt9/Problemes-PRO1#consolidation-1)
+- [P4.2 - Sequence extension](https://github.com/miquelt9/Problemes-PRO1#p42---sequence-extension)
+- [P5 - Functions & Procedures](https://github.com/miquelt9/Problemes-PRO1#p5---functions--procedures)
+- [P6 - Recursion](https://github.com/miquelt9/Problemes-PRO1#p6---recursion)
+- [P7 - Vectors](https://github.com/miquelt9/Problemes-PRO1#p7---vectors)
+- [Consolidation 2](https://github.com/miquelt9/Problemes-PRO1#consolidation-2)
+- [P8 - Multidimensional Arrays](https://github.com/miquelt9/Problemes-PRO1#p8---multidimensional-arrays)
+- [P9 - Data Structures (tuples)](https://github.com/miquelt9/Problemes-PRO1#p9---data-structures-tuples)
+- [P10 - Fundamental Algorithms & Advanced Exercises](https://github.com/miquelt9/Problemes-PRO1#p10---fundamental-algorithms--advanced-exercises)
 
 ## P1 - Introduction
 - [X54725](https://jutge.org/problems/X54725) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/X54725.cc) - Mínim de dos enters
@@ -74,7 +86,7 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P48713](https://jutge.org/problems/P48713) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P48713.cc) - Primalitat
 - [P31111](https://jutge.org/problems/P31111) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P31111.cc) - Parèntesis
 - [P23001](https://jutge.org/problems/P23001) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P23001.cc) - Paraules consecutives repetides
-- [P12061](https://jutge.org/problems/P12061) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P12061.cc) - 
+- [P12061](https://jutge.org/problems/P12061) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P12061.cc) - Paraules entre altres dues
 - [P89872](https://jutge.org/problems/P89872) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P89872.cc) - Segona paraula màxima
 - [P39308](https://jutge.org/problems/P39308) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P39308.cc) - Divisors en ordre
 
