@@ -214,42 +214,42 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P43260](https://jutge.org/problems/P43260) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/P43260.cc) - Cruz recursiva
 
 ## P9 - Data Structures (tuples)
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [P46254](https://jutge.org/problems/P46254) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P46254.cc) - Distància entre dos punts
+- [P45616](https://jutge.org/problems/P45616) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P45616.cc) - Rellotge
+- [P56358](https://jutge.org/problems/P56358) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P56358.cc) - Sumar i restar un segon
+- [P11141](https://jutge.org/problems/P11141) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P11141.cc) - Estudiants
+- [P85696](https://jutge.org/problems/P85696) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P85696.cc) - Racionals (1)
+- [P26141](https://jutge.org/problems/P26141) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P26141.cc) - Racionals (4)
+- [P93090](https://jutge.org/problems/P93090) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P93090.cc) - F008B. Suma de fraccions
+- [P84786](https://jutge.org/problems/P84786) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P84786.cc) - Cercles (1)
+- [P56635](https://jutge.org/problems/P56635) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P56635.cc) - Rectangles (1)
+- [P82952](https://jutge.org/problems/P82952) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P82952.cc) - Rectangles (2)
+- [P14343](https://jutge.org/problems/P14343) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P14343.cc) - Jutge (1)
+- [P81104](https://jutge.org/problems/P81104) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P81104.cc) - F001A. Alumnes de la FIPS
+- [P16175](https://jutge.org/problems/P16175) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P16175.cc) - F002B. Vectors comprimits
+- [X82451](https://jutge.org/problems/X82451) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/X82451.cc) - Point inside a rectangle
+- [P24730](https://jutge.org/problems/P24730) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P24730.cc) - Parvulari
+- [P30170](https://jutge.org/problems/P30170) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/P30170.cc) - Paraules repetides
+- [X96647](https://jutge.org/problems/X96647) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/X96647.cc) - Vectors normalitzats
+- [X96443](https://jutge.org/problems/X96443) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/X96443.cc) - Missatge ocult
 
 ## P10 - Fundamental Algorithms & Advanced Exercises
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [P81966](https://jutge.org/problems/P81966) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P81966.cc) - Cerca dicotòmica
+- [P29094](https://jutge.org/problems/P29094) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P29094.cc) - Posició del màxim
+- [P98179](https://jutge.org/problems/P98179) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P98179.cc) - Inserció en taula ordenada
+- [P41412](https://jutge.org/problems/P41412) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P41412.cc) - Ordenació per inserció
+- [P89124](https://jutge.org/problems/P89124) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P89124.cc) - Garbell d'Eratòstenes
+- [P46584](https://jutge.org/problems/P46584) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P46584.cc) - Diferència de taules
+- [X13635](https://jutge.org/problems/X13635) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/X13635.cc) - Mediateca Digital (II)
+- [P55043](https://jutge.org/problems/P55043) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P55043.cc) - Rius digitals
+- [P77227](https://jutge.org/problems/P77227) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P77227.cc) - Salta, salta
+- [P96529](https://jutge.org/problems/P96529) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P96529.cc) - Claus i parèntesis
+- [P64555](https://jutge.org/problems/P64555) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P64555.cc) - F006B. Distància de Manhattan
+- [P71916](https://jutge.org/problems/P71916) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P71916.cc) - Anagrames
+- [P45484](https://jutge.org/problems/P45484) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P45484.cc) - Quadrat màgic
+- [P26100](https://jutge.org/problems/P26100) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P26100.cc) - El joc de la vida (1)
+- [P25174](https://jutge.org/problems/P25174) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P25174.cc) - Molts en ratlla
+- [P98343](https://jutge.org/problems/P98343) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P98343.cc) - Escrivint nombres amb lletres
+- [P35971](https://jutge.org/problems/P35971) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P35971.cc) - F009A. Recorrent matrius
+- [P80868](https://jutge.org/problems/P80868) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P80868.cc) - P0014. Valls numèriques
+- [P12284](https://jutge.org/problems/P12284) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/P12284.cc) - Paraules més freqüents
