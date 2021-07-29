@@ -92,69 +92,69 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 
 
 ## Consolidation 1
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [P57315](https://jutge.org/problems/P57315) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P57315.cc) - ABC
+- [P96589](https://jutge.org/problems/P96589) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P96589.cc) - Control C101C
+- [X98097](https://jutge.org/problems/X98097) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/X98097.cc) - Posicions senars i parelles relacionades
+- [P19991](https://jutge.org/problems/P19991) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P19991.cc) - Tauler d'escacs (3)
+- [P76024](https://jutge.org/problems/P76024) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P76024.cc) - Suma de fraccions
+- [P24080](https://jutge.org/problems/P24080) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P24080.cc) - Quadrats (1)
+- [X80452](https://jutge.org/problems/X80452) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/X80452.cc) - Segells
+- [X50286](https://jutge.org/problems/X50286) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/X50286.cc) - Quàntes hola?
+- [X84338](https://jutge.org/problems/X84338) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/X84338.cc) - Suma de meitats d'un número relacionades
+- [P96767](https://jutge.org/problems/P96767) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P96767.cc) - Avaluació de polinomis (1)
+- [P72484](https://jutge.org/problems/P72484) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P72484.cc) - Rombe
+- [P61061](https://jutge.org/problems/P61061) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P61061.cc) - Producte de dígits
+- [P87323](https://jutge.org/problems/P87323) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/P87323.cc) - Rectangles diagonals
 
 ## P4.2 - Sequence extension
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [P17179](https://jutge.org/problems/P17179) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/P17179.cc) - Mesures estadístiques
+- [P90620](https://jutge.org/problems/P90620) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/P90620.cc) - La Pica d'Estats
+- [P71753](https://jutge.org/problems/P71753) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/P71753.cc) - Màxim de cada seqüència
+- [P73501](https://jutge.org/problems/P73501) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/P73501.cc) - Parells creixents
+- [P35957](https://jutge.org/problems/P35957) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/P35957.cc) - Dígits centrals
+- [P89979](https://jutge.org/problems/P89979) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/P89979.cc) - Línies ordenades (1)
+- [P49603](https://jutge.org/problems/P49603) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/P49603.cc) - Línies ordenades (2)
+- [P87523](https://jutge.org/problems/P87523) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - Hola-adéu
 
 ## P5 - Functions & Procedures
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [P38045](https://jutge.org/problems/P38045) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P38045.cc) - Càlcul d'arrels i de quadrats
+- [P37760](https://jutge.org/problems/P37760) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P37760.cc) - Trigonometria
+- [X04437](https://jutge.org/problems/X04437) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/X04437.cc) - Distància a l'origen
+- [X46340](https://jutge.org/problems/X46340) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/X46340.cc) - Funció per la suma del mínim i el màxim de tres enters
+- [P73231](https://jutge.org/problems/P73231) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P73231.cc) - Màxim de quatre enters
+- [P95401](https://jutge.org/problems/P95401) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P95401.cc) - Funció per als anys de traspàs
+- [P58459](https://jutge.org/problems/P58459) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P58459.cc) - Dates vàlides
+- [P65437](https://jutge.org/problems/P65437) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P65437.cc) - Intercanvi
+- [P57474](https://jutge.org/problems/P57474) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P57474.cc) - Factorial iteratiu
+- [P22654](https://jutge.org/problems/P22654) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P22654.cc) - Descomposició horària (2)
+- [P77686](https://jutge.org/problems/P77686) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P77686.cc) - Capicues
+- [X00639](https://jutge.org/problems/X00639) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/X00639.cc) - Comparant fraccions
+- [P58653](https://jutge.org/problems/P58653) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P58653.cc) - Classificació de caràcters (2)
+- [P24381](https://jutge.org/problems/P24381) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P24381.cc) - Escriviu una creu
+- [P59652](https://jutge.org/problems/P59652) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P59652.cc) - Llegiu un nombre racional (1)
+- [P34091](https://jutge.org/problems/P34091) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P34091.cc) - Nombres perfectes
+- [P21281](https://jutge.org/problems/P21281) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P21281.cc) - Factor més frequent
+- [P50095](https://jutge.org/problems/P50095) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P50095.cc) - Següent primer
+- [P33371](https://jutge.org/problems/P33371) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/P33371.cc) - Codi Cèsar
+- [X06314](https://jutge.org/problems/X06314) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/X06314.cc) - Seqüències similars (2)
+- [X58169](https://jutge.org/problems/X58169) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/X58169.cc) - Posicions d'un maxim a dues sequencies
 
 ## P6 - Recursion
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [P12509](https://jutge.org/problems/P12509) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P12509.cc) - Factorial recursiu
+- [P51222](https://jutge.org/problems/P51222) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P51222.cc) - Nombre de dígits recursiu
+- [P96965](https://jutge.org/problems/P96965) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P96965.cc) - Reducció de dígits
+- [P56549](https://jutge.org/problems/P56549) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P56549.cc) - Canvis de base
+- [P35537](https://jutge.org/problems/P35537) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P35537.cc) - Nombres creixents
+- [P22467](https://jutge.org/problems/P22467) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P22467.cc) - Primers perfectes
+- [X50141](https://jutge.org/problems/X50141) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/X50141.cc) - Funció per engreixar nombres
+- [P26041](https://jutge.org/problems/P26041) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P26041.cc) - Girant una llista de paraules (1)
+- [P52926](https://jutge.org/problems/P52926) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P52926.cc) - Girant una llista de paraules (2)
+- [P38877](https://jutge.org/problems/P38877) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P38877.cc) - Girant una llista de paraules (4)
+- [P89336](https://jutge.org/problems/P89336) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P89336.cc) - Girant una llista de paraules (6)
+- [P71398](https://jutge.org/problems/P71398) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P71398.cc) - Procediment per al dígit màxim i mínim
+- [P62467](https://jutge.org/problems/P62467) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P62467.cc) - Barres (1)
+- [P10694](https://jutge.org/problems/P10694) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P10694.cc) - Barres (3)
+- [P20006](https://jutge.org/problems/P20006) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/P20006.cc) - Expressió prefixada
 
 ## P7 - Vectors
 - [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
