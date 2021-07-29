@@ -3,6 +3,9 @@
 Aquí trobareu els problemes de [PRO1](https://www.cs.upc.edu/pro1/) de la [FIB](https://www.fib.upc.edu/) ([UPC](https://www.upc.edu/)) corresponents al quatrimestre de tardor 2020/2021.                            
 El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](https://jutge.org/courses/Pro1:PRO1_Q1_2020_2021)
 
+## Índex
+-> [P1 - Introduction](https://github.com/miquelt9/Problemes-PRO1#p1---introduction)
+
 ## P1 - Introduction
 - [X54725](https://jutge.org/problems/X54725) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/X54725.cc) - Mínim de dos enters
 - [P90615](https://jutge.org/problems/P90615) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P1%20Introduction/P90615.cc) - Màxim de tres enters
