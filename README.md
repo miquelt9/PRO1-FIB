@@ -92,28 +92,164 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 
 
 ## Consolidation 1
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%201/.cc) - 
 
 ## P4.2 - Sequence extension
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.2%20Sequence%20extension/.cc) - 
 
 ## P5 - Functions & Procedures
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P5%20Functions%20%26%20Procedures/.cc) - 
 
 ## P6 - Recursion
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P6%20Recursion/.cc) - 
 
 ## P7 - Vectors
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P7%20Vectors/.cc) - 
 
 ## Consolidation 2
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/Consolidation%202/.cc) - 
 
 ## P8 - Multidimensional Arrays
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P8%20Multidimensional%20Arrays/.cc) - 
 
 ## P9 - Data Structures (tuples)
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P9%20Data%20Structure%20(tuples)/.cc) - 
 
 ## P10 - Fundamental Algorithms & Advanced Exercises
-- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P10%20Fundamental%20Algorithms%20%26%20Advanced%20Exercises/.cc) - 
