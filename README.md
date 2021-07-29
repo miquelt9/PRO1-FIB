@@ -46,25 +46,59 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO1 2020-2021 Q1](htt
 - [P27341](https://jutge.org/problems/P27341) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P27341.cc) -  Control C202D
 - [P85370](https://jutge.org/problems/P85370) - [Solució](https://github.com/miquelt9/Problemes-PRO1/blob/main/P2%20First%20Loops/P85370.cc) - Interessos (1)
 
-
 ## P3 - More Loops
+- [P79817](https://jutge.org/problems/P79817) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P79817.cc) - Potències
+- [P33839](https://jutge.org/problems/P33839) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P33839.cc) - Suma de dígits
+- [X08783](https://jutge.org/problems/X08783) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/X08783.cc) - Quàntes xifres?
+- [X01646](https://jutge.org/problems/X01646) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/X01646.cc) - Suma de dígits (2)
+- [P29973](https://jutge.org/problems/P29973) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P29973.cc) - Triangle
+- [P32533](https://jutge.org/problems/P32533) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P32533.cc) - Control C202E
+- [P42280](https://jutge.org/problems/P42280) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P42280.cc) - Tauler d'escacs (1)
+- [P13623](https://jutge.org/problems/P13623) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P13623.cc) - Tauler d'escacs (2)
+- [P87198](https://jutge.org/problems/P87198) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P87198.cc) - Octàgons facilets
+- [P58153](https://jutge.org/problems/P58153) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P58153.cc) - Nombres harmònics (2)
+- [P80660](https://jutge.org/problems/P80660) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/P80660.cc) - La seqüència de Collatz
+- [X59091](https://jutge.org/problems/X59091) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P3%20More%20Loops/X59091.cc) - Rectangles (2)
 
 ## P4.1 - Sequence basics
+- [P67454](https://jutge.org/problems/P67454) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P67454.cc) - Comptant as (2)
+- [P75149](https://jutge.org/problems/P75149) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P75149.cc) - Buscant una a
+- [P79784](https://jutge.org/problems/P79784) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P79784.cc) - Moviments en el pla
+- [P89078](https://jutge.org/problems/P89078) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P89078.cc) - Primera posició
+- [P32046](https://jutge.org/problems/P32046) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P32046.cc) - Control C202F
+- [P39225](https://jutge.org/problems/P39225) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P39225.cc) - I-èsim (1)
+- [P65103](https://jutge.org/problems/P65103) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P65103.cc) - I-èsim (3)
+- [P48713](https://jutge.org/problems/P48713) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P48713.cc) - Primalitat
+- [P31111](https://jutge.org/problems/P31111) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P31111.cc) - Parèntesis
+- [P23001](https://jutge.org/problems/P23001) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P23001.cc) - Paraules consecutives repetides
+- [P12061](https://jutge.org/problems/P12061) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P12061.cc) - 
+- [P89872](https://jutge.org/problems/P89872) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P89872.cc) - Segona paraula màxima
+- [P39308](https://jutge.org/problems/P39308) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/P39308.cc) - Divisors en ordre
+
 
 ## Consolidation 1
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## P4.2 - Sequence extension
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## P5 - Functions & Procedures
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## P6 - Recursion
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## P7 - Vectors
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## Consolidation 2
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## P8 - Multidimensional Arrays
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## P9 - Data Structures (tuples)
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
 
 ## P10 - Fundamental Algorithms & Advanced Exercises
+- [](https://jutge.org/problems/) - [Solució](https://github.com/miquelt9/Problemes-PRO1/tree/main/P4.1%20Sequence%20basics/.cc) - 
